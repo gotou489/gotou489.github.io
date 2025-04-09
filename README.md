@@ -35,7 +35,7 @@
   👉 https://github.com/gotou489/gotou489.github.io
   
 3.  本プロジェクトに関するご意見・ご感想や改善提案は、以下のURL·メールから   
-  👉 https://github.com/gotou489/gokuu/issues
+  👉 https://github.com/gotou489/gokuu/issues  
   
   　　メールアドレス: tk.mg1943@gmail.com
 
