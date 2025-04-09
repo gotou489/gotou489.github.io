@@ -748,6 +748,24 @@
 document.addEventListener("DOMContentLoaded", function() {
     const tabLinks = document.querySelectorAll(".tab-button, .tab-link");
 
+    // すべてのセクションを非表示にする
+    const tabContents = document.querySelectorAll(".section");
+    tabContents.forEach(function (content) {
+    content.style.display = "none";
+    });
+
+    // トップページを表示（tab-0-content が存在する場合）
+    const topPage = document.getElementById("tab-0-content");
+    if (topPage) {
+    topPage.style.display = "block";
+    }
+
+    // 「歓迎 !! ようこそ?」のメッセージを表示
+    const welcomeDiv = document.getElementById("welcome-button");
+    if (welcomeDiv) {
+    welcomeDiv.style.display = "block";
+    }
+
     tabLinks.forEach(link => {
         link.addEventListener("click", function(e) {
             e.preventDefault(); // デフォルトのリンク動作を無効化
