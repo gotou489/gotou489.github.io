@@ -29,14 +29,16 @@
 
 ## 使い方
 1. ゴクウプロジェクトの公開ページの閲覧は、以下のURLから  
-　👉 https://gotou489.github.io/
+　     https://gotou489.github.io/
 
 2. リポジトリをクローンして、HTML(index.html)ファイルの閲覧、以下のURLから  
-  👉 https://github.com/gotou489/gotou489.github.io
+      https://github.com/gotou489/gotou489.github.io
   
-3.  本プロジェクトに関するご意見・ご感想や改善提案は、以下のURL·メールから   
-  👉 https://github.com/gotou489/gokuu/issues  
-  
+3. 本プロジェクトに関するご意見・ご感想や改善提案は、  
+     以下のURLから     
+      https://github.com/gotou489/gokuu/issues
+   
+     以下のメールアドレスから  
   　　メールアドレス: tk.mg1943@gmail.com
 
 　皆さまのフィードバックをもとに、より良いサイト作りに努めてまいります。どうぞよろしくお願いいたします。
