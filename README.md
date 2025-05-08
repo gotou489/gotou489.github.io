@@ -40,7 +40,7 @@
      以下のURLから  
       https://github.com/gotou489/gokuu/issues
   
-     以下のメールアドレスから	 
+     以下のメールアドレスから  	 
       [tkg.mg1943@gmail.com](mailto:tkg.mg1943@gmail.com)
 
 　皆さまのフィードバックをもとに、より良いサイト作りに努めてまいります。どうぞよろしくお願いいたします。
