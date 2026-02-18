@@ -68,3 +68,4 @@
 ## ライセンス
  本プロジェクトは [Creative Commons Attribution-ShareAlike 4.0 International License]
  (https://creativecommons.org/licenses/by-sa/4.0/) の下で公開されています。"# gokuu" 
+（最終更新日：2026年2月18日）
